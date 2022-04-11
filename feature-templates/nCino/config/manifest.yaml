@@ -10,3 +10,17 @@ packageDirectories:
           versions:
             Fall 2019 V3:
               modifiedDate: '2022-04-11 13:11:35'
+        01oY3L0F-Document Manager:
+          path: dataset/01oY3L0F-Document Manager
+          prefix: ncino
+          standardFeature: false
+          versions:
+            Spring 2020 V1:
+              modifiedDate: '2022-04-11 13:21:26'
+        01oY3L0F-Id Doc Type Test:
+          path: dataset/01oY3L0F-Id Doc Type Test
+          prefix: ncino
+          standardFeature: false
+          versions:
+            24 May 21:
+              modifiedDate: '2022-04-11 13:21:26'

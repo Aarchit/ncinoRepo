@@ -1,0 +1,30 @@
+[
+  {
+    "name": "nFORCE__Screen_Section__c",
+    "lookupobjfieldmap": {
+      "LLC_BI__Id_Document_Type__c": "LLC_BI__Screen_Section__c"
+    },
+    "recordtypeidmap": {},
+    "objectsetnum": 0
+  },
+  {
+    "name": "LLC_BI__Id_Document_Requirement__c",
+    "lookupobjfieldmap": {
+      "LLC_BI__Id_Document_Type__c": "LLC_BI__Id_Document_Requirement__c"
+    },
+    "recordtypeidmap": {},
+    "userlookupfields": [
+      "ownerid"
+    ],
+    "objectsetnum": 0
+  },
+  {
+    "name": "LLC_BI__Id_Document_Type__c",
+    "lookupobjfieldmap": {},
+    "recordtypeidmap": {},
+    "userlookupfields": [
+      "ownerid"
+    ],
+    "objectsetnum": 0
+  }
+]
