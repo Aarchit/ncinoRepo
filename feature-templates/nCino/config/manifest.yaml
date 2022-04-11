@@ -1,0 +1,12 @@
+!!com.rabit.featuremigration.beans.vcstructure.ConfigManifest
+packageDirectories:
+  packagePaths:
+    dataset:
+      features:
+        01oY3L0F-Collateral Types:
+          path: dataset/01oY3L0F-Collateral Types
+          prefix: ncino
+          standardFeature: false
+          versions:
+            Fall 2019 V3:
+              modifiedDate: '2022-04-11 13:11:35'
