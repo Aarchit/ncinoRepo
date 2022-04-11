@@ -2,8 +2,9 @@
   {
     "name": "nFORCE__Screen__c",
     "lookupobjfieldmap": {
-      "LLC_BI__Collateral_Type__c": "LLC_BI__Leasing_Screen__c,LLC_BI__Screen__c",
-      "nFORCE__Screen_Section__c": "nFORCE__Screen__c"
+      "LLC_BI__Collateral_Type__c": "LLC_BI__Leasing_Screen__c,LLC_BI__Screen__c,nPortal__OA_Collateral_Type_Screen__c",
+      "nFORCE__Screen_Section__c": "nFORCE__Screen__c",
+      "LLC_BI__Product__c": "nPortal__Online_Application_AS_Screen__c"
     },
     "recordtypeidmap": {},
     "userlookupfields": [
@@ -28,7 +29,7 @@
     "lookupobjfieldmap": {
       "nFORCE__Screen_Section__c": "nFORCE__Parent_Screen_Section__c",
       "nFORCE__Section_Configuration__c": "nFORCE__Screen_Section__c",
-      "LLC_BI__Product__c": "LLC_BI__Maintenance_Screen_Section__c,LLC_BI__Screen_Section__c"
+      "LLC_BI__Product__c": "LLC_BI__Screen_Section__c"
     },
     "recordtypeidmap": {},
     "objectsetnum": 0
